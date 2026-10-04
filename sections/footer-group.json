@@ -1,0 +1,71 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "2547d973-836d-4c28-8dcb-8b86d329abff": {
+          "type": "link_list",
+          "settings": {
+            "heading": "MENU",
+            "menu": "main-menu"
+          }
+        },
+        "22beadc8-ca56-4f6e-8107-1afe6c287fef": {
+          "type": "link_list",
+          "settings": {
+            "heading": "QUICK LINKS",
+            "menu": "customer-services"
+          }
+        },
+        "7470c835-36a0-4384-b412-87ef1cc23388": {
+          "type": "link_list",
+          "settings": {
+            "heading": "POLICIES",
+            "menu": "information"
+          }
+        },
+        "1b0e4e94-adc7-4c98-9d8d-3d309a3aeca7": {
+          "type": "text",
+          "settings": {
+            "heading": "CONTACT DETAILS",
+            "subtext": "<p>7241 Ephraim Overpass Suite 056</p><p><strong>Email : </strong>example123@gmail.com</p><p><strong>Tel :</strong> 00 000 0000</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "2547d973-836d-4c28-8dcb-8b86d329abff",
+        "22beadc8-ca56-4f6e-8107-1afe6c287fef",
+        "7470c835-36a0-4384-b412-87ef1cc23388",
+        "1b0e4e94-adc7-4c98-9d8d-3d309a3aeca7"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 72,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

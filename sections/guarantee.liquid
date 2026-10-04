@@ -1,0 +1,170 @@
+<style>
+    .guarantee__wrapper-{{ section.id }}{
+      width:100%;
+      background-color:{{section.settings.bgclr}};
+      padding:50px 20px;
+      --color:#fff;
+    }
+    .guarantee__main{
+      max-width:1200px;
+      margin:auto;
+
+      display:flex;
+      justify-content:center;
+      align-items:center;
+    }
+    .guarantee__items{
+      flex-basis:33.33%;
+    }
+    .content__wrapper{
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      gap: 14px;
+    }
+    .content__title{
+      color:var(--color);
+      margin-bottom: 5px;
+      letter-spacing: 0.05em;
+      font-size: 14px;
+      font-weight:600;
+    }
+    .content__detail{
+      color:var(--color);
+      font-size:12px;
+      line-height:1.2rem;
+    }
+
+
+    .svg__wrapper svg{
+      fill: #ffffff;
+      width:40px;
+      vertical-align:middle;
+  }
+    @media (max-width:768px){
+      .guarantee__main{
+        flex-direction:column;
+      }
+       .content__wrapper{
+        flex-direction:column;
+         padding:30px 0px;
+
+      }
+      .txt__heading__wrapper{
+        text-align:center;
+
+      }
+    }
+</style>
+<div class="guarantee__wrapper-{{ section.id }}">
+  <div class="guarantee__main">
+    <div class="guarantee__item1 guarantee__items">
+      <div class="content__wrapper">
+        <div class="svg__wrapper">
+          {% render 'icon-shipping' %}
+        </div>
+        <div class="txt__heading__wrapper">
+          <div class="content__title">
+            {{ section.settings.title }}
+          </div>
+          <div class="content__detail">
+            {{ section.settings.detail }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="guarantee__item1 guarantee__items">
+      <div class="content__wrapper">
+        <div class="svg__wrapper">
+          {% render 'icon-money' %}
+        </div>
+        <div class="txt__heading__wrapper">
+          <div class="content__title">
+            {{ section.settings.title2 }}
+          </div>
+          <div class="content__detail">
+            {{ section.settings.detail2 }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="guarantee__item1 guarantee__items">
+      <div class="content__wrapper">
+        <div class="svg__wrapper">
+          {% render 'icon-support' %}
+        </div>
+        <div class="txt__heading__wrapper">
+          <div class="content__title">
+            {{ section.settings.title3 }}
+          </div>
+          <div class="content__detail">
+            {{ section.settings.detail3 }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Guarantee",
+  "settings": [
+    {
+      "type":"color",
+      "id":"bgclr",
+      "label":"Bakcground-color"
+
+    },
+    {
+      "type":"text",
+      "id":"title",
+      "label":"Title",
+      "default":"Title"
+    },
+    {
+      "type":"text",
+      "id":"detail",
+      "label":"Detail",
+      "default":"Details"
+
+    },
+    {
+    "type":"text",
+      "id":"title2",
+      "label":"title",
+      "default":"title"
+    },
+    {
+      "type":"text",
+      "id":"detail2",
+      "label":"Detail",
+      "default":"Details"
+
+    },
+    {
+      "type":"text",
+      "id":"title3",
+      "label":"titile",
+      "default":"title"
+    },
+    {
+      "type":"text",
+      "id":"detail3",
+      "label":"Detail",
+      "default":"Details"
+
+    }
+  ],
+  "presets":[
+    {
+    "name":"Guarantee"
+  }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

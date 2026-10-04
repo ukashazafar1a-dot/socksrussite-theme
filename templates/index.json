@@ -1,0 +1,382 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "The perfect fit for your feet.",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "At Sockrussite, we're passionate about socks and believe that they're an essential part of any outfit.",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pexels-the-lazy-artist-gallery-1117485.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "2864d16c-8478-4f32-9302-abb9fee03c7f": {
+      "type": "rich-text",
+      "blocks": {
+        "a60513ac-b0be-4cc2-a7b5-d19ffd414fcd": {
+          "type": "caption",
+          "settings": {
+            "caption": "Sock it to Me",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--18315617403167__2864d16c-8478-4f32-9302-abb9fee03c7f-167968777785f74804-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Socks for Every Adventure</p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18315617403167__2864d16c-8478-4f32-9302-abb9fee03c7f-167968777785f74804-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you're hitting the trails or the city streets, our athletic sock collection has everything you need to stay comfortable and supported during any adventure.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "a60513ac-b0be-4cc2-a7b5-d19ffd414fcd",
+        "template--18315617403167__2864d16c-8478-4f32-9302-abb9fee03c7f-167968777785f74804-0",
+        "template--18315617403167__2864d16c-8478-4f32-9302-abb9fee03c7f-167968777785f74804-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 56,
+        "padding_bottom": 52
+      }
+    },
+    "81ab5861-5a22-40e1-b5ce-c57a37b05f98": {
+      "type": "image-with-text",
+      "blocks": {
+        "40193225-eeb7-4f9e-98fe-45ae6741f756": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sport",
+            "heading_size": "h1"
+          }
+        },
+        "d1fcc939-8621-43a6-8550-5e180ff0fd3d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Make a statement with our range of bold and colorful socks for Sports. Whether you prefer funky patterns or classic designs, our socks are the perfect finishing touch to any outfit.</p>",
+            "text_style": "body"
+          }
+        },
+        "794baf35-c801-4973-ba02-c313d476dec8": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://collections/womens-socks"
+          }
+        }
+      },
+      "block_order": [
+        "40193225-eeb7-4f9e-98fe-45ae6741f756",
+        "d1fcc939-8621-43a6-8550-5e180ff0fd3d",
+        "794baf35-c801-4973-ba02-c313d476dec8"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pexels-tima-miroshnichenko-6538911_1.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "af519e2c-ff72-472e-925c-bd8df2f6b3d0": {
+      "type": "image-with-text",
+      "blocks": {
+        "65be6a6a-aa82-42b7-bab2-b89fd25f9321": {
+          "type": "caption",
+          "settings": {
+            "caption": "Coming Soon",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--18315617403167__af519e2c-ff72-472e-925c-bd8df2f6b3d0-1679683905702acf26-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Men's",
+            "heading_size": "h1"
+          }
+        },
+        "template--18315617403167__af519e2c-ff72-472e-925c-bd8df2f6b3d0-1679683905702acf26-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our men's socks are made from high-quality materials that ensure durability and comfort. Plus, with a variety of styles to choose from, you'll always find the perfect fit for any occasion.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--18315617403167__af519e2c-ff72-472e-925c-bd8df2f6b3d0-1679683905702acf26-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://collections/mens-socks"
+          }
+        }
+      },
+      "block_order": [
+        "65be6a6a-aa82-42b7-bab2-b89fd25f9321",
+        "template--18315617403167__af519e2c-ff72-472e-925c-bd8df2f6b3d0-1679683905702acf26-0",
+        "template--18315617403167__af519e2c-ff72-472e-925c-bd8df2f6b3d0-1679683905702acf26-1",
+        "template--18315617403167__af519e2c-ff72-472e-925c-bd8df2f6b3d0-1679683905702acf26-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pexels-thirdman-9399758.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Top Sellers",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "e1607068-888a-4437-854e-b29c2a6fd813": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18315617403167__e1607068-888a-4437-854e-b29c2a6fd813-1679683835ed0794e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Socks for Every Occasion",
+            "heading_size": "h0"
+          }
+        },
+        "template--18315617403167__e1607068-888a-4437-854e-b29c2a6fd813-1679683835ed0794e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "\"Comfort and Quality Guaranteed\" - We pride ourselves on offering socks made from high-quality materials that are both comfortable and durable. Shop with us and experience the difference.",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--18315617403167__e1607068-888a-4437-854e-b29c2a6fd813-1679683835ed0794e8-0",
+        "template--18315617403167__e1607068-888a-4437-854e-b29c2a6fd813-1679683835ed0794e8-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/indian-casual-bearded-male-using-smartphone-loft-room-with-christmas-decoration.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "24c739f6-b1e7-46bf-9ec6-be03fe4b5b96": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--18315617403167__24c739f6-b1e7-46bf-9ec6-be03fe4b5b96-1679683741023d2ec8-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mens-socks"
+          }
+        },
+        "template--18315617403167__24c739f6-b1e7-46bf-9ec6-be03fe4b5b96-1679683741023d2ec8-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "womens-socks"
+          }
+        }
+      },
+      "block_order": [
+        "template--18315617403167__24c739f6-b1e7-46bf-9ec6-be03fe4b5b96-1679683741023d2ec8-0",
+        "template--18315617403167__24c739f6-b1e7-46bf-9ec6-be03fe4b5b96-1679683741023d2ec8-2"
+      ],
+      "settings": {
+        "title": "Our Collection",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4cf250eb-2f5f-4a8b-83b9-a6814fa5322b": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-2": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-4": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-0",
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-1",
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-2",
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-3",
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-4",
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-5",
+        "template--18315617403167__4cf250eb-2f5f-4a8b-83b9-a6814fa5322b-167968766504e1c6bc-6"
+      ],
+      "settings": {
+        "product": "lin-4-pack-tour-de-france-cycling-socks",
+        "color_scheme": "background-1",
+        "secondary_background": true,
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "700934e2-1521-441e-8553-c59d1ef86c45": {
+      "type": "guarantee",
+      "settings": {
+        "bgclr": "#286955",
+        "title": "FREE SHIPPING & RETURN",
+        "detail": "Free US shipping on orders over $38",
+        "title2": "MONEY GAURNTEE",
+        "detail2": "30 days money back guarantee",
+        "title3": "ONLINE SUPPORT",
+        "detail3": "We support online 24/7 on day"
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "2864d16c-8478-4f32-9302-abb9fee03c7f",
+    "81ab5861-5a22-40e1-b5ce-c57a37b05f98",
+    "af519e2c-ff72-472e-925c-bd8df2f6b3d0",
+    "featured_collection",
+    "e1607068-888a-4437-854e-b29c2a6fd813",
+    "24c739f6-b1e7-46bf-9ec6-be03fe4b5b96",
+    "4cf250eb-2f5f-4a8b-83b9-a6814fa5322b",
+    "700934e2-1521-441e-8553-c59d1ef86c45"
+  ]
+}

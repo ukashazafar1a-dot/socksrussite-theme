@@ -1,0 +1,76 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "ad77c70b-ada4-4d9b-89b9-087b37981f12": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18358374138143__ad77c70b-ada4-4d9b-89b9-087b37981f12-1679696561930ff940-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What materials are your socks made of?",
+            "icon": "none",
+            "row_content": "<p>Our socks are made of high-quality materials that are both comfortable and durable. We use a variety of materials, including cotton, bamboo, and synthetic blends. Each product listing on our website includes a detailed description of the materials used for that particular sock.</p>",
+            "page": ""
+          }
+        },
+        "template--18358374138143__ad77c70b-ada4-4d9b-89b9-087b37981f12-1679696561930ff940-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What sizes do you offer?",
+            "icon": "none",
+            "row_content": "<p>We offer a range of sizes for both men and women, including small, medium, large, and extra-large. Our sizing chart is available on our website to help you find the right size for you. If you have any questions about sizing, please don't hesitate to contact us.</p>",
+            "page": ""
+          }
+        },
+        "template--18358374138143__ad77c70b-ada4-4d9b-89b9-087b37981f12-1679696561930ff940-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return policy?",
+            "icon": "none",
+            "row_content": "<p> We want you to be completely satisfied with your purchase. If for any reason you're not happy with your socks, we offer a hassle-free return policy. You can return your socks within 30 days of purchase for a full refund or exchange. Please see our returns and exchanges page on our website for more information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18358374138143__ad77c70b-ada4-4d9b-89b9-087b37981f12-1679696561930ff940-0",
+        "template--18358374138143__ad77c70b-ada4-4d9b-89b9-087b37981f12-1679696561930ff940-1",
+        "template--18358374138143__ad77c70b-ada4-4d9b-89b9-087b37981f12-1679696561930ff940-2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ'S",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ad77c70b-ada4-4d9b-89b9-087b37981f12"
+  ]
+}

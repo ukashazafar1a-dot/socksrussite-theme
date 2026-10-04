@@ -1,0 +1,55 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "306e9217-03e6-4d78-a4cc-9d777fbc852e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18358362013983__306e9217-03e6-4d78-a4cc-9d777fbc852e-167969634327658dde-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>About Us</p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18358362013983__306e9217-03e6-4d78-a4cc-9d777fbc852e-167969634327658dde-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to SocksRus, your one-stop-shop for high-quality socks for men and women. We are a family-owned and operated business that started with a simple idea - to provide comfortable and stylish socks that make a difference in people's lives.</p><p>At SocksRus, we believe that socks are more than just an accessory - they are an extension of your personality and style. That's why we curate a wide selection of socks that cater to every style, occasion, and mood. From colorful patterns to classic designs, we have something for everyone.</p><p>We are committed to providing our customers with the best shopping experience possible. Our easy-to-use website, fast shipping, and friendly customer service are just a few ways we go above and beyond to make sure you're satisfied with your purchase.</p><p>At SocksRus, we also believe in giving back to our community. That's why we donate a portion of our profits to local charities that support causes we're passionate about. By shopping with us, you're not only treating yourself to a great pair of socks but also contributing to a greater cause.</p><p>We take pride in the quality of our socks and stand behind our products. If you're not satisfied with your purchase, please let us know, and we'll do everything we can to make it right.</p><p>Thank you for choosing SocksRus for all your sock needs. We appreciate your support and look forward to serving you.</p><p>Feel free to customize this text to reflect your brand's unique voice and values. Remember, your \"About Us\" page is a great opportunity to connect with your customers and build trust, so make sure your text reflects your brand's personality and mission.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18358362013983__306e9217-03e6-4d78-a4cc-9d777fbc852e-167969634327658dde-0",
+        "template--18358362013983__306e9217-03e6-4d78-a4cc-9d777fbc852e-167969634327658dde-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "306e9217-03e6-4d78-a4cc-9d777fbc852e"
+  ]
+}
